@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://Academic-Codex.github.io/SEL0604-Sinais-e-Sistemas">
-    <img src=".github/readme/hero.svg?v=2026-01-08T00:14:29.271156Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2026-01-08T00:48:19.354732Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
